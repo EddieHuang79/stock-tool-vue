@@ -1,0 +1,21 @@
+/* LoadingIcon */
+/*#LoadingIcon {
+	width: 20px !important; 
+	height: 20px !important;
+}
+#LoadingIcon .sk-fading-circle {
+	margin: 0 auto !important; 
+	width: 20px !important; 
+	height: 20px !important;
+}
+#LoadingIcon .sk-fading-circle .sk-circle {
+	margin: 0 !important;
+}*/
+
+/* FullPageLoading */
+#FullPageLoading {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 1000;
+}

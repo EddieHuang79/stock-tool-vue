@@ -1,0 +1,8 @@
+.sk-fading-circle {
+	margin: 0 auto !important; 
+	width: 20px; 
+	height: 20px;
+}
+.sk-fading-circle .sk-circle {
+	margin: 0 !important;
+}
